@@ -1,4 +1,4 @@
-# Bestenliste
+# Spielestatistik
 
 Eine Website, auf der Freundesgruppen ihre Ergebnisse in verschiedenen
 Spielen/Disziplinen eintragen und daraus Statistiken erhalten — sowohl in
